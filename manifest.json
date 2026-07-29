@@ -164,8 +164,8 @@
     "name": "CELESTIAL",
     "brand": "SBH",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CELESTIAL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_CELESTIAL.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CELESTIAL.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CELESTIAL.glb"
   },
   {
     "id": 21,
@@ -1092,8 +1092,8 @@
     "name": "FLEET FOOT",
     "brand": "SLN",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEET_FOOT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEET_FOOT.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_FLEET_FOOT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_FLEET_FOOT.glb"
   },
   {
     "id": 137,
