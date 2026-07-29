@@ -483,7 +483,7 @@
     "id": 60,
     "name": "MOSS",
     "brand": "SBH",
-    "configurable": false,
+    "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MOSS.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MOSS.glb"
   },
