@@ -164,8 +164,8 @@
     "name": "CELESTIAL",
     "brand": "SBH",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CELESTIAL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CELESTIAL.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CELESTIAL.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_CELESTIAL.glb"
   },
   {
     "id": 21,
@@ -1092,8 +1092,8 @@
     "name": "FLEET FOOT",
     "brand": "SLN",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_FLEET_FOOT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_FLEET_FOOT.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEET_FOOT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEET_FOOT.glb"
   },
   {
     "id": 137,
@@ -1850,7 +1850,7 @@
   {
     "id": 231,
     "name": "Ben",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Ben.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Ben.glb"
@@ -1858,7 +1858,7 @@
   {
     "id": 232,
     "name": "Berlin",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin.glb"
@@ -1866,7 +1866,7 @@
   {
     "id": 233,
     "name": "Berlin CT",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin_CT.glb"
@@ -1874,7 +1874,7 @@
   {
     "id": 234,
     "name": "Body and Soul",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Body_and_Soul.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Body_and_Soul.glb"
@@ -1882,7 +1882,7 @@
   {
     "id": 235,
     "name": "Boney M",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Boney_M.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Boney_M.glb"
@@ -1890,7 +1890,7 @@
   {
     "id": 236,
     "name": "CT1",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_CT1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_CT1.glb"
@@ -1898,7 +1898,7 @@
   {
     "id": 237,
     "name": "CT 2",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_CT_2.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_CT_2.glb"
@@ -1906,7 +1906,7 @@
   {
     "id": 238,
     "name": "DORTMUND ROMA",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb"
@@ -1914,7 +1914,7 @@
   {
     "id": 239,
     "name": "DORTMUND  L Shape",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb"
@@ -1922,7 +1922,7 @@
   {
     "id": 240,
     "name": "Detmold",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Detmold.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Detmold.glb"
@@ -1930,7 +1930,7 @@
   {
     "id": 241,
     "name": "Detmold Sofa",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Detmold_Sofa.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Detmold_Sofa.glb"
@@ -1938,7 +1938,7 @@
   {
     "id": 242,
     "name": "Dream",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dream.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dream.glb"
@@ -1946,7 +1946,7 @@
   {
     "id": 243,
     "name": "Dt 1",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dt_1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dt_1.glb"
@@ -1954,7 +1954,7 @@
   {
     "id": 244,
     "name": "Dusseldorf Sofa",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_Sofa.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_Sofa.glb"
@@ -1962,7 +1962,7 @@
   {
     "id": 245,
     "name": "Dusseldorf ct",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_ct.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_ct.glb"
@@ -1970,7 +1970,7 @@
   {
     "id": 246,
     "name": "Glory",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Glory.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Glory.glb"
@@ -1978,7 +1978,7 @@
   {
     "id": 247,
     "name": "Grace",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Grace.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Grace.glb"
@@ -1986,7 +1986,7 @@
   {
     "id": 248,
     "name": "Harmony",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Harmony.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Harmony.glb"
@@ -1994,7 +1994,7 @@
   {
     "id": 249,
     "name": "Heavenly",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Heavenly.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Heavenly.glb"
@@ -2002,7 +2002,7 @@
   {
     "id": 250,
     "name": "Lily",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Lily.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Lily.glb"
@@ -2010,7 +2010,7 @@
   {
     "id": 251,
     "name": "Love",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Love.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Love.glb"
@@ -2018,7 +2018,7 @@
   {
     "id": 252,
     "name": "Moon",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Moon.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Moon.glb"
@@ -2026,7 +2026,7 @@
   {
     "id": 253,
     "name": "Munich",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich.glb"
@@ -2034,7 +2034,7 @@
   {
     "id": 254,
     "name": "Paradise",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Paradise.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Paradise.glb"
@@ -2042,7 +2042,7 @@
   {
     "id": 255,
     "name": "Peace",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Peace.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Peace.glb"
@@ -2050,7 +2050,7 @@
   {
     "id": 256,
     "name": "Strauss",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Strauss.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Strauss.glb"
@@ -2058,7 +2058,7 @@
   {
     "id": 257,
     "name": "Stuttgard",
-    "brand": "St Hilker",
+    "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard.glb"
