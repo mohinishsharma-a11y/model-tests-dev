@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "ABBA",
+    "name": "Abba",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABBA.webp",
@@ -10,7 +10,7 @@
   },
   {
     "id": 1,
-    "name": "ABBA L",
+    "name": "Abba (L)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABBA_L.webp",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "ABENA",
+    "name": "Abena",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABENA.webp",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "name": "ALBURY",
+    "name": "Albury",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ALBURY.webp",
@@ -35,7 +35,7 @@
   },
   {
     "id": 4,
-    "name": "ANTON",
+    "name": "Anton",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ANTON.webp",
@@ -43,7 +43,7 @@
   },
   {
     "id": 5,
-    "name": "ASTON 1STR",
+    "name": "Aston (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_1STR.webp",
@@ -52,7 +52,7 @@
   },
   {
     "id": 6,
-    "name": "ASTON 2STR",
+    "name": "Aston (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_2STR.webp",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "name": "ASTON 3STR",
+    "name": "Aston (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_3STR.webp",
@@ -70,7 +70,7 @@
   },
   {
     "id": 8,
-    "name": "AUBREY 1STR",
+    "name": "Aubrey (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_1STR.webp",
@@ -79,7 +79,7 @@
   },
   {
     "id": 9,
-    "name": "AUBREY 2STR",
+    "name": "Aubrey (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_2STR.webp",
@@ -88,7 +88,7 @@
   },
   {
     "id": 10,
-    "name": "AUBREY 3STR",
+    "name": "Aubrey (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_3STR.webp",
@@ -129,7 +129,7 @@
   },
   {
     "id": 15,
-    "name": "BELfast",
+    "name": "Belfast",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_BELfast.webp",
@@ -169,7 +169,7 @@
   },
   {
     "id": 20,
-    "name": "CELESTIAL",
+    "name": "Celestial",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CELESTIAL.webp",
@@ -177,7 +177,7 @@
   },
   {
     "id": 21,
-    "name": "CONARAD SOFABED",
+    "name": "Conarad Sofabed",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CONARAD_SOFABED.webp",
@@ -185,7 +185,7 @@
   },
   {
     "id": 22,
-    "name": "CUTE",
+    "name": "Cute",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CUTE.webp",
@@ -218,7 +218,7 @@
   },
   {
     "id": 26,
-    "name": "Curiosity CT",
+    "name": "Curiosity (CT)",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity_CT.webp",
@@ -227,7 +227,7 @@
   },
   {
     "id": 27,
-    "name": "Curiosity ST",
+    "name": "Curiosity (ST)",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity_ST.webp",
@@ -244,7 +244,7 @@
   },
   {
     "id": 29,
-    "name": "ECHO",
+    "name": "Echo",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ECHO.webp",
@@ -252,7 +252,7 @@
   },
   {
     "id": 30,
-    "name": "EDISON",
+    "name": "Edison",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EDISON.webp",
@@ -260,33 +260,34 @@
   },
   {
     "id": 31,
-    "name": "EGGSIGHTMENT BIG",
+    "name": "Eggsightment Big",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_BIG.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_BIG.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_BIG.glb",
+    "variants": [32, 33]
   },
   {
     "id": 32,
-    "name": "EGGSIGHTMENT MID",
+    "name": "Eggsightment Mid",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_MID.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_MID.glb",
-    "variants": [33]
+    "variants": [31, 33]
   },
   {
     "id": 33,
-    "name": "EGGSIGHTMENT SMALL",
+    "name": "Eggsightment Small",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_SMALL.glb",
-    "variants": [32]
+    "variants": [31, 32]
   },
   {
     "id": 34,
-    "name": "ELENA 1 Seater",
+    "name": "Elena (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_1_Seater.webp",
@@ -295,7 +296,7 @@
   },
   {
     "id": 35,
-    "name": "ELENA 2 Seater",
+    "name": "Elena (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_2_Seater.webp",
@@ -304,7 +305,7 @@
   },
   {
     "id": 36,
-    "name": "ELENA 3 Seater",
+    "name": "Elena (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_3_Seater.webp",
@@ -313,7 +314,7 @@
   },
   {
     "id": 37,
-    "name": "ELKE",
+    "name": "Elke",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELKE.webp",
@@ -329,7 +330,7 @@
   },
   {
     "id": 39,
-    "name": "FLEET FOOT",
+    "name": "Fleet Foot",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_FLEET_FOOT.webp",
@@ -345,7 +346,7 @@
   },
   {
     "id": 41,
-    "name": "GEO",
+    "name": "Geo",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_GEO.webp",
@@ -353,7 +354,7 @@
   },
   {
     "id": 42,
-    "name": "GLORIA LOWBACK",
+    "name": "Gloria Lowback",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_GLORIA_LOWBACK.webp",
@@ -377,65 +378,66 @@
   },
   {
     "id": 45,
-    "name": "HUDSON 1 Seater",
+    "name": "Hudson (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_1_Seater.glb",
-    "variants": [46, 47, 48, 49, 51]
+    "variants": [46, 47, 48, 49, 50, 51]
   },
   {
     "id": 46,
-    "name": "HUDSON 2.5 Seater",
+    "name": "Hudson (2.5 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2.5_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2.5_Seater.glb",
-    "variants": [45, 47, 48, 49, 51]
+    "variants": [45, 47, 48, 49, 50, 51]
   },
   {
     "id": 47,
-    "name": "HUDSON 2 Seater",
+    "name": "Hudson (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2_Seater.glb",
-    "variants": [45, 46, 48, 49, 51]
+    "variants": [45, 46, 48, 49, 50, 51]
   },
   {
     "id": 48,
-    "name": "HUDSON 3 Seater",
+    "name": "Hudson (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_3_Seater.glb",
-    "variants": [45, 46, 47, 49, 51]
+    "variants": [45, 46, 47, 49, 50, 51]
   },
   {
     "id": 49,
-    "name": "HUDSON 4 Seater",
+    "name": "Hudson (4 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_4_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_4_Seater.glb",
-    "variants": [45, 46, 47, 48, 51]
+    "variants": [45, 46, 47, 48, 50, 51]
   },
   {
     "id": 50,
-    "name": "HUDSON DAYBED",
+    "name": "Hudson (Daybed)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_DAYBED.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_DAYBED.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_DAYBED.glb",
+    "variants": [45, 46, 47, 48, 49, 51]
   },
   {
     "id": 51,
-    "name": "HUDSON L SHAPE",
+    "name": "Hudson (L Shape)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_L_SHAPE.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_L_SHAPE.glb",
-    "variants": [45, 46, 47, 48, 49]
+    "variants": [45, 46, 47, 48, 49, 50]
   },
   {
     "id": 52,
@@ -447,7 +449,7 @@
   },
   {
     "id": 53,
-    "name": "LIBRARY",
+    "name": "Library",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_LIBRARY.webp",
@@ -455,7 +457,7 @@
   },
   {
     "id": 54,
-    "name": "Leon 1 SEATER",
+    "name": "Leon (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_1_SEATER.webp",
@@ -464,7 +466,7 @@
   },
   {
     "id": 55,
-    "name": "Leon 2 SEATER",
+    "name": "Leon (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_2_SEATER.webp",
@@ -473,7 +475,7 @@
   },
   {
     "id": 56,
-    "name": "Leon 3 SEATER",
+    "name": "Leon (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_3_SEATER.webp",
@@ -482,7 +484,7 @@
   },
   {
     "id": 57,
-    "name": "MARK",
+    "name": "Mark",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MARK.webp",
@@ -490,7 +492,7 @@
   },
   {
     "id": 58,
-    "name": "MARVEL",
+    "name": "Marvel",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MARVEL.webp",
@@ -498,7 +500,7 @@
   },
   {
     "id": 59,
-    "name": "MILO",
+    "name": "Milo",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MILO.webp",
@@ -506,7 +508,7 @@
   },
   {
     "id": 60,
-    "name": "MOSS",
+    "name": "Moss",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MOSS.webp",
@@ -530,7 +532,7 @@
   },
   {
     "id": 63,
-    "name": "NEPTUNE",
+    "name": "Neptune",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_NEPTUNE.webp",
@@ -546,7 +548,7 @@
   },
   {
     "id": 65,
-    "name": "OBLIVIOUS A",
+    "name": "Oblivious A",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_A.webp",
@@ -555,7 +557,7 @@
   },
   {
     "id": 66,
-    "name": "OBLIVIOUS B",
+    "name": "Oblivious B",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_B.webp",
@@ -564,7 +566,7 @@
   },
   {
     "id": 67,
-    "name": "OBLIVIOUS C",
+    "name": "Oblivious C",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_C.webp",
@@ -617,7 +619,7 @@
   },
   {
     "id": 73,
-    "name": "PEBBLE S",
+    "name": "Pebble S",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PEBBLE_S.webp",
@@ -625,7 +627,7 @@
   },
   {
     "id": 74,
-    "name": "PIZZARIA",
+    "name": "Pizzaria",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PIZZARIA.webp",
@@ -634,7 +636,7 @@
   },
   {
     "id": 75,
-    "name": "POPULAR",
+    "name": "Popular",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_POPULAR.webp",
@@ -642,7 +644,7 @@
   },
   {
     "id": 76,
-    "name": "PRETTY",
+    "name": "Pretty",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PRETTY.webp",
@@ -676,7 +678,7 @@
   },
   {
     "id": 80,
-    "name": "RIVA",
+    "name": "Riva",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_RIVA.webp",
@@ -684,7 +686,7 @@
   },
   {
     "id": 81,
-    "name": "SERENA",
+    "name": "Serena",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SERENA.webp",
@@ -692,7 +694,7 @@
   },
   {
     "id": 82,
-    "name": "SPIN A",
+    "name": "Spin A",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_A.webp",
@@ -701,7 +703,7 @@
   },
   {
     "id": 83,
-    "name": "SPIN B",
+    "name": "Spin B",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_B.webp",
@@ -710,7 +712,7 @@
   },
   {
     "id": 84,
-    "name": "SPIN C",
+    "name": "Spin C",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_C.webp",
@@ -719,55 +721,57 @@
   },
   {
     "id": 85,
-    "name": "Senart 1Str",
+    "name": "Senart (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_1Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_1Str.glb",
-    "variants": [86, 87, 88]
+    "variants": [86, 87, 88, 89, 90]
   },
   {
     "id": 86,
-    "name": "Senart 2.5Str",
+    "name": "Senart (2.5 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2.5Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2.5Str.glb",
-    "variants": [85, 87, 88]
+    "variants": [85, 87, 88, 89, 90]
   },
   {
     "id": 87,
-    "name": "Senart 2Str",
+    "name": "Senart (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2Str.glb",
-    "variants": [85, 86, 88]
+    "variants": [85, 86, 88, 89, 90]
   },
   {
     "id": 88,
-    "name": "Senart 3Str",
+    "name": "Senart (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_3Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_3Str.glb",
-    "variants": [85, 86, 87]
+    "variants": [85, 86, 87, 89, 90]
   },
   {
     "id": 89,
-    "name": "Senart LHShape",
+    "name": "Senart (LH Shape)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_LHShape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_LHShape.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_LHShape.glb",
+    "variants": [85, 86, 87, 88, 90]
   },
   {
     "id": 90,
-    "name": "Senart RHShape",
+    "name": "Senart (RH Shape)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_RHShape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_RHShape.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_RHShape.glb",
+    "variants": [85, 86, 87, 88, 89]
   },
   {
     "id": 91,
@@ -823,7 +827,7 @@
   },
   {
     "id": 97,
-    "name": "TABY",
+    "name": "Taby",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_TABY.webp",
@@ -831,7 +835,7 @@
   },
   {
     "id": 98,
-    "name": "Time 1STR",
+    "name": "Time (1 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_1STR.webp",
@@ -840,7 +844,7 @@
   },
   {
     "id": 99,
-    "name": "Time 2STR",
+    "name": "Time (2 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_2STR.webp",
@@ -849,7 +853,7 @@
   },
   {
     "id": 100,
-    "name": "Time 3STR",
+    "name": "Time (3 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_3STR.webp",
@@ -858,7 +862,7 @@
   },
   {
     "id": 101,
-    "name": "Time 4STR",
+    "name": "Time (4 Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_4STR.webp",
@@ -867,7 +871,7 @@
   },
   {
     "id": 102,
-    "name": "Time LSTR",
+    "name": "Time (L Seater)",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_LSTR.webp",
@@ -876,7 +880,7 @@
   },
   {
     "id": 103,
-    "name": "WEDGE",
+    "name": "Wedge",
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_WEDGE.webp",
@@ -884,7 +888,7 @@
   },
   {
     "id": 104,
-    "name": "WINTON",
+    "name": "Winton",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_WINTON.webp",
@@ -924,7 +928,7 @@
   },
   {
     "id": 109,
-    "name": "ZITA",
+    "name": "Zita",
     "brand": "SBH",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ZITA.webp",
@@ -948,7 +952,7 @@
   },
   {
     "id": 112,
-    "name": "AVANTA CT",
+    "name": "Avanta CT",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVANTA_CT.webp",
@@ -956,7 +960,7 @@
   },
   {
     "id": 113,
-    "name": "AVENTA",
+    "name": "Aventa",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA.webp",
@@ -965,7 +969,7 @@
   },
   {
     "id": 114,
-    "name": "AVENTA 3Str",
+    "name": "Aventa (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_3Str.webp",
@@ -974,7 +978,7 @@
   },
   {
     "id": 115,
-    "name": "AVENTA 4Str",
+    "name": "Aventa (4 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_4Str.webp",
@@ -983,7 +987,7 @@
   },
   {
     "id": 116,
-    "name": "AWESOME",
+    "name": "Awesome",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AWESOME.webp",
@@ -991,7 +995,7 @@
   },
   {
     "id": 117,
-    "name": "BOBBY CHAIR",
+    "name": "Bobby Chair",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_BOBBY_CHAIR.webp",
@@ -999,7 +1003,7 @@
   },
   {
     "id": 118,
-    "name": "BUTTON MUSHROOM Big & Small",
+    "name": "Button Mushroom Big & Small",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_BUTTON_MUSHROOM_Big_&_Small.webp",
@@ -1007,7 +1011,7 @@
   },
   {
     "id": 119,
-    "name": "CELESTIAL",
+    "name": "Celestial",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CELESTIAL.webp",
@@ -1015,7 +1019,7 @@
   },
   {
     "id": 120,
-    "name": "CLAVEL",
+    "name": "Clavel",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CLAVEL.webp",
@@ -1023,7 +1027,7 @@
   },
   {
     "id": 121,
-    "name": "CORNELL",
+    "name": "Cornell",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CORNELL.webp",
@@ -1063,30 +1067,30 @@
   },
   {
     "id": 126,
-    "name": "Crazy Daisy 1 Seater",
+    "name": "Crazy Daisy (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_1_Seater.glb",
-    "variants": [127, 128, 229]
+    "variants": [127, 128]
   },
   {
     "id": 127,
-    "name": "Crazy Daisy 2.5 Seater",
+    "name": "Crazy Daisy (2.5 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_2.5_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_2.5_Seater.glb",
-    "variants": [126, 128, 229]
+    "variants": [126, 128]
   },
   {
     "id": 128,
-    "name": "Crazy Daisy 3 Seater",
+    "name": "Crazy Daisy (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_3_Seater.glb",
-    "variants": [126, 127, 229]
+    "variants": [126, 127]
   },
   {
     "id": 129,
@@ -1098,7 +1102,7 @@
   },
   {
     "id": 130,
-    "name": "DENVER 3 SEATER",
+    "name": "Denver (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_3_SEATER.webp",
@@ -1107,7 +1111,7 @@
   },
   {
     "id": 131,
-    "name": "DENVER 6 SEATER",
+    "name": "Denver (6 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_6_SEATER.webp",
@@ -1116,7 +1120,7 @@
   },
   {
     "id": 132,
-    "name": "DUKE",
+    "name": "Duke",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DUKE.webp",
@@ -1124,19 +1128,21 @@
   },
   {
     "id": 133,
-    "name": "EGGSIGHTMENT BIG",
+    "name": "Eggsightment Big",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_EGGSIGHTMENT_BIG.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_BIG.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_BIG.glb",
+    "variants": [134]
   },
   {
     "id": 134,
-    "name": "EGGSIGHTMENT SMALL",
+    "name": "Eggsightment Small",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_EGGSIGHTMENT_SMALL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_SMALL.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_SMALL.glb",
+    "variants": [133]
   },
   {
     "id": 135,
@@ -1148,7 +1154,7 @@
   },
   {
     "id": 136,
-    "name": "FLEET FOOT",
+    "name": "Fleet Foot",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEET_FOOT.webp",
@@ -1156,68 +1162,70 @@
   },
   {
     "id": 137,
-    "name": "FLEN 2STR",
+    "name": "Flen (2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEN_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEN_2STR.glb",
-    "variants": [139, 140]
+    "variants": [138, 139, 140]
   },
   {
     "id": 138,
-    "name": "Flen 1.5STR W O ARM",
+    "name": "Flen (1.5 Seater w/o Arm)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1.5STR_W_O_ARM.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1.5STR_W_O_ARM.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1.5STR_W_O_ARM.glb",
+    "variants": [137, 139, 140]
   },
   {
     "id": 139,
-    "name": "Flen 1STR",
+    "name": "Flen (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1STR.glb",
-    "variants": [137, 140]
+    "variants": [137, 138, 140]
   },
   {
     "id": 140,
-    "name": "Flen 3STR",
+    "name": "Flen (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_3STR.glb",
-    "variants": [137, 139]
+    "variants": [137, 138, 139]
   },
   {
     "id": 141,
-    "name": "Fruits of Paradise BIG",
+    "name": "Fruits Of Paradise Big",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_BIG.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_BIG.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_BIG.glb",
+    "variants": [142, 143]
   },
   {
     "id": 142,
-    "name": "Fruits of Paradise MID",
+    "name": "Fruits Of Paradise Mid",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_MID.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_MID.glb",
-    "variants": [143]
+    "variants": [141, 143]
   },
   {
     "id": 143,
-    "name": "Fruits of Paradise SMALL",
+    "name": "Fruits Of Paradise Small",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_SMALL.glb",
-    "variants": [142]
+    "variants": [141, 142]
   },
   {
     "id": 144,
-    "name": "GEO",
+    "name": "Geo",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GEO.webp",
@@ -1225,7 +1233,7 @@
   },
   {
     "id": 145,
-    "name": "GRAND NAPOLEAN",
+    "name": "Grand Napolean",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_NAPOLEAN.webp",
@@ -1233,7 +1241,7 @@
   },
   {
     "id": 146,
-    "name": "GRAND NEPOLEON",
+    "name": "Grand Nepoleon",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_NEPOLEON.webp",
@@ -1241,61 +1249,57 @@
   },
   {
     "id": 147,
-    "name": "GRAND THEORY",
+    "name": "Grand Theory",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY.glb",
-    "variants": [148, 149, 150, 151, 152]
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY.glb"
   },
   {
     "id": 148,
-    "name": "GRAND THEORY 1 1STR",
+    "name": "Grand Theory 1 (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_1STR.glb",
-    "variants": [147, 149, 150, 151, 152]
+    "variants": [149]
   },
   {
     "id": 149,
-    "name": "GRAND THEORY 1 3STR",
+    "name": "Grand Theory 1 (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_3STR.glb",
-    "variants": [147, 148, 150, 151, 152]
+    "variants": [148]
   },
   {
     "id": 150,
-    "name": "GRAND THEORY 2 DC",
+    "name": "Grand Theory 2 DC",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_2_DC.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_2_DC.glb",
-    "variants": [147, 148, 149, 151, 152]
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_2_DC.glb"
   },
   {
     "id": 151,
-    "name": "GRAND THEORY 2 DT",
+    "name": "Grand Theory 2 DT",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_2_DT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_2_DT.glb",
-    "variants": [147, 148, 149, 150, 152]
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_2_DT.glb"
   },
   {
     "id": 152,
-    "name": "GRAND THEORY CT",
+    "name": "Grand Theory CT",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_CT.glb",
-    "variants": [147, 148, 149, 150, 151]
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_CT.glb"
   },
   {
     "id": 153,
-    "name": "Grand Derby 2.5st",
+    "name": "Grand Derby (2.5 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_2.5st.webp",
@@ -1304,7 +1308,7 @@
   },
   {
     "id": 154,
-    "name": "Grand Derby 3 st",
+    "name": "Grand Derby (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_3_st.webp",
@@ -1326,7 +1330,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_220.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_220.glb",
-    "variants": [157, 158]
+    "variants": [157, 158, 159, 160, 161]
   },
   {
     "id": 157,
@@ -1335,7 +1339,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_240.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_240.glb",
-    "variants": [156, 158]
+    "variants": [156, 158, 159, 160, 161]
   },
   {
     "id": 158,
@@ -1344,7 +1348,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_300.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_300.glb",
-    "variants": [156, 157]
+    "variants": [156, 157, 159, 160, 161]
   },
   {
     "id": 159,
@@ -1353,7 +1357,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_220.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_220.glb",
-    "variants": [160, 161]
+    "variants": [156, 157, 158, 160, 161]
   },
   {
     "id": 160,
@@ -1362,7 +1366,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_240.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_240.glb",
-    "variants": [159, 161]
+    "variants": [156, 157, 158, 159, 161]
   },
   {
     "id": 161,
@@ -1371,11 +1375,11 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_300.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_300.glb",
-    "variants": [159, 160]
+    "variants": [156, 157, 158, 159, 160]
   },
   {
     "id": 162,
-    "name": "ISLAND IN THE STREAM",
+    "name": "Island In The Stream",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ISLAND_IN_THE_STREAM.webp",
@@ -1391,7 +1395,7 @@
   },
   {
     "id": 164,
-    "name": "JADE BED",
+    "name": "Jade Bed",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_BED.webp",
@@ -1399,33 +1403,34 @@
   },
   {
     "id": 165,
-    "name": "JADE SENIOR",
+    "name": "Jade Senior",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SENIOR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SENIOR.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SENIOR.glb",
+    "variants": [166, 167]
   },
   {
     "id": 166,
-    "name": "JADE SOFA 2.5 STR",
+    "name": "Jade Sofa (2.5 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SOFA_2.5_STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SOFA_2.5_STR.glb",
-    "variants": [167]
+    "variants": [165, 167]
   },
   {
     "id": 167,
-    "name": "JADE SOFA 3 STR",
+    "name": "Jade Sofa (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SOFA_3_STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SOFA_3_STR.glb",
-    "variants": [166]
+    "variants": [165, 166]
   },
   {
     "id": 168,
-    "name": "JUKE BOX 2str",
+    "name": "Juke Box (2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str.webp",
@@ -1434,7 +1439,7 @@
   },
   {
     "id": 169,
-    "name": "JUKE BOX 2str L 2str",
+    "name": "Juke Box (2 Seater L 2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str_L_2str.webp",
@@ -1443,7 +1448,7 @@
   },
   {
     "id": 170,
-    "name": "JUKE BOX 3str",
+    "name": "Juke Box (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str.webp",
@@ -1452,7 +1457,7 @@
   },
   {
     "id": 171,
-    "name": "JUKE BOX 3str L 3str",
+    "name": "Juke Box (3 Seater L 3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str_L_3str.webp",
@@ -1469,7 +1474,7 @@
   },
   {
     "id": 173,
-    "name": "LAVINIA 1STR",
+    "name": "Lavinia (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LAVINIA_1STR.webp",
@@ -1478,7 +1483,7 @@
   },
   {
     "id": 174,
-    "name": "LAVINIA 3STR",
+    "name": "Lavinia (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LAVINIA_3STR.webp",
@@ -1487,7 +1492,7 @@
   },
   {
     "id": 175,
-    "name": "LUTON",
+    "name": "Luton",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LUTON.webp",
@@ -1511,7 +1516,7 @@
   },
   {
     "id": 178,
-    "name": "MARMALADE",
+    "name": "Marmalade",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MARMALADE.webp",
@@ -1519,7 +1524,7 @@
   },
   {
     "id": 179,
-    "name": "MORGAN 1STR",
+    "name": "Morgan (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_1STR.webp",
@@ -1528,7 +1533,7 @@
   },
   {
     "id": 180,
-    "name": "MORGAN 2STR",
+    "name": "Morgan (2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_2STR.webp",
@@ -1537,7 +1542,7 @@
   },
   {
     "id": 181,
-    "name": "MORGAN 3STR",
+    "name": "Morgan (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_3STR.webp",
@@ -1546,7 +1551,7 @@
   },
   {
     "id": 182,
-    "name": "NEO",
+    "name": "Neo",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NEO.webp",
@@ -1554,7 +1559,7 @@
   },
   {
     "id": 183,
-    "name": "NICO",
+    "name": "Nico",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NICO.webp",
@@ -1562,7 +1567,7 @@
   },
   {
     "id": 184,
-    "name": "OCEANIC BLOOM BIG MEDIUM",
+    "name": "Oceanic Bloom Big Medium",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_OCEANIC_BLOOM_BIG_MEDIUM.webp",
@@ -1570,7 +1575,7 @@
   },
   {
     "id": 185,
-    "name": "Oasis 1 Seater",
+    "name": "Oasis (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_1_Seater.webp",
@@ -1579,7 +1584,7 @@
   },
   {
     "id": 186,
-    "name": "Oasis 2.5 Seater",
+    "name": "Oasis (2.5 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_2.5_Seater.webp",
@@ -1588,7 +1593,7 @@
   },
   {
     "id": 187,
-    "name": "Oasis 3 Seater",
+    "name": "Oasis (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_3_Seater.webp",
@@ -1631,7 +1636,7 @@
   },
   {
     "id": 192,
-    "name": "Over Hang CT",
+    "name": "Over Hang (CT)",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Over_Hang_CT.webp",
@@ -1640,7 +1645,7 @@
   },
   {
     "id": 193,
-    "name": "PEBBLE S",
+    "name": "Pebble S",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_PEBBLE_S.webp",
@@ -1648,7 +1653,7 @@
   },
   {
     "id": 194,
-    "name": "POPPY BUDS A",
+    "name": "Poppy Buds A",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_A.webp",
@@ -1657,7 +1662,7 @@
   },
   {
     "id": 195,
-    "name": "POPPY BUDS B",
+    "name": "Poppy Buds B",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_B.webp",
@@ -1666,7 +1671,7 @@
   },
   {
     "id": 196,
-    "name": "POPPY BUDS C",
+    "name": "Poppy Buds C",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_C.webp",
@@ -1675,7 +1680,7 @@
   },
   {
     "id": 197,
-    "name": "POPULAR",
+    "name": "Popular",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPULAR.webp",
@@ -1683,7 +1688,7 @@
   },
   {
     "id": 198,
-    "name": "PRINCETON LOW",
+    "name": "Princeton Low",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_PRINCETON_LOW.webp",
@@ -1735,7 +1740,7 @@
   },
   {
     "id": 204,
-    "name": "ROLLO 2.5",
+    "name": "Rollo 2.5",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2.5.webp",
@@ -1744,7 +1749,7 @@
   },
   {
     "id": 205,
-    "name": "ROLLO 2 3STR",
+    "name": "Rollo 2 (3 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2_3STR.webp",
@@ -1753,7 +1758,7 @@
   },
   {
     "id": 206,
-    "name": "ROLLO 2 4STR",
+    "name": "Rollo 2 (4 Seater)",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2_4STR.webp",
@@ -1762,7 +1767,7 @@
   },
   {
     "id": 207,
-    "name": "ROLLO 3STR",
+    "name": "Rollo 3 Seater",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_3STR.webp",
@@ -1771,7 +1776,7 @@
   },
   {
     "id": 208,
-    "name": "RONDA",
+    "name": "Ronda",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_RONDA.webp",
@@ -1780,7 +1785,7 @@
   },
   {
     "id": 209,
-    "name": "RONDA 2.5",
+    "name": "Ronda 2.5",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_RONDA_2.5.webp",
@@ -1798,7 +1803,7 @@
   },
   {
     "id": 211,
-    "name": "SHERWOOD SMALL",
+    "name": "Sherwood Small",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SHERWOOD_SMALL.webp",
@@ -1806,7 +1811,7 @@
   },
   {
     "id": 212,
-    "name": "SPIN A",
+    "name": "Spin A",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_A.webp",
@@ -1815,7 +1820,7 @@
   },
   {
     "id": 213,
-    "name": "SPIN B",
+    "name": "Spin B",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_B.webp",
@@ -1824,7 +1829,7 @@
   },
   {
     "id": 214,
-    "name": "SPIN C",
+    "name": "Spin C",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_C.webp",
@@ -1841,33 +1846,34 @@
   },
   {
     "id": 216,
-    "name": "TRILOGY BIG",
+    "name": "Trilogy Big",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_BIG.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_BIG.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_BIG.glb",
+    "variants": [217, 218]
   },
   {
     "id": 217,
-    "name": "TRILOGY MEDIUM",
+    "name": "Trilogy Medium",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_MEDIUM.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_MEDIUM.glb",
-    "variants": [218]
+    "variants": [216, 218]
   },
   {
     "id": 218,
-    "name": "TRILOGY SMALL",
+    "name": "Trilogy Small",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_SMALL.glb",
-    "variants": [217]
+    "variants": [216, 217]
   },
   {
     "id": 219,
-    "name": "TUXEDO ODD CHAIR",
+    "name": "Tuxedo Odd Chair",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TUXEDO_ODD_CHAIR.webp",
@@ -1875,7 +1881,7 @@
   },
   {
     "id": 220,
-    "name": "TUXEDO bed",
+    "name": "Tuxedo Bed",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TUXEDO_bed.webp",
@@ -1907,27 +1913,30 @@
   },
   {
     "id": 224,
-    "name": "Wonder Wave lux 2200A",
+    "name": "Wonder Wave Lux (2200A)",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200A.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200A.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200A.glb",
+    "variants": [225, 226]
   },
   {
     "id": 225,
-    "name": "Wonder Wave lux 2200B",
+    "name": "Wonder Wave Lux (2200B)",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200B.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200B.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200B.glb",
+    "variants": [224, 226]
   },
   {
     "id": 226,
-    "name": "Wonder Wave lux 2200C",
+    "name": "Wonder Wave Lux (2200C)",
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200C.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200C.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200C.glb",
+    "variants": [224, 225]
   },
   {
     "id": 227,
@@ -1939,7 +1948,7 @@
   },
   {
     "id": 228,
-    "name": "ZIPPO",
+    "name": "Zippo",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ZIPPO.webp",
@@ -1947,12 +1956,11 @@
   },
   {
     "id": 229,
-    "name": "Crazy daisy 2",
+    "name": "Crazy Daisy 2",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_crazy_daisy_2.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_crazy_daisy_2.glb",
-    "variants": [126, 127, 128]
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_crazy_daisy_2.glb"
   },
   {
     "id": 230,
@@ -1990,7 +1998,7 @@
   },
   {
     "id": 234,
-    "name": "Body and Soul",
+    "name": "Body And Soul",
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Body_and_Soul.webp",
@@ -2006,7 +2014,7 @@
   },
   {
     "id": 236,
-    "name": "CT1",
+    "name": "CT 1",
     "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_CT1.webp",
@@ -2022,19 +2030,21 @@
   },
   {
     "id": 238,
-    "name": "DORTMUND ROMA",
+    "name": "Dortmund Roma",
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb",
+    "variants": [239]
   },
   {
     "id": 239,
-    "name": "DORTMUND  L Shape",
+    "name": "Dortmund L Shape",
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb",
+    "variants": [238]
   },
   {
     "id": 240,
@@ -2064,7 +2074,7 @@
   },
   {
     "id": 243,
-    "name": "Dt 1",
+    "name": "DT 1",
     "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dt_1.webp",
@@ -2080,7 +2090,7 @@
   },
   {
     "id": 245,
-    "name": "Dusseldorf ct",
+    "name": "Dusseldorf CT",
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_ct.webp",
@@ -2204,7 +2214,8 @@
     "brand": "St_Hilker",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb",
+    "variants": [261]
   },
   {
     "id": 261,
@@ -2212,6 +2223,7 @@
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
+    "variants": [260]
   }
 ]
