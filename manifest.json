@@ -2082,11 +2082,12 @@
   },
   {
     "id": 244,
-    "name": "Dusseldorf Sofa",
+    "name": "Dusseldorf 3 Seater",
     "brand": "St_Hilker",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_Sofa.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_Sofa.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_3_Seater.glb",
+    "variants": [262, 263]
   },
   {
     "id": 245,
@@ -2225,5 +2226,31 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
     "variants": [260]
+  },
+  {
+    "id": 262,
+    "name": "Dusseldorf 1 Seater",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_1_Seater.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_1_Seater.glb",
+    "variants": [244, 263]
+  },
+  {
+    "id": 263,
+    "name": "Dusseldorf 2 Seater",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_2_Seater.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_2_Seater.glb",
+    "variants": [244, 262]
+  },
+  {
+    "id": 264,
+    "name": "Munich CT",
+    "brand": "St_Hilker",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich_CT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich_CT.glb"
   }
 ]
