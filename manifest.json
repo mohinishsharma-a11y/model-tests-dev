@@ -1262,7 +1262,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_1STR.glb",
-    "variants": [149]
+    "variants": [149, 268]
   },
   {
     "id": 149,
@@ -1271,7 +1271,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_3STR.glb",
-    "variants": [148]
+    "variants": [148, 268]
   },
   {
     "id": 150,
@@ -1956,11 +1956,11 @@
   },
   {
     "id": 229,
-    "name": "Crazy Daisy 2",
+    "name": "Crazy Daisy",
     "brand": "SLN",
     "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_crazy_daisy_2.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_crazy_daisy_2.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_daisy.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_daisy.glb"
   },
   {
     "id": 230,
@@ -2252,5 +2252,41 @@
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich_CT.glb"
+  },
+  {
+    "id": 265,
+    "name": "SUREFOOTED A",
+    "brand": "SLN",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_A.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_A.glb",
+    "variants": [266, 267]
+  },
+  {
+    "id": 266,
+    "name": "SUREFOOTED B",
+    "brand": "SLN",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_B.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_B.glb",
+    "variants": [265, 267]
+  },
+  {
+    "id": 267,
+    "name": "SUREFOOTED C",
+    "brand": "SLN",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
+    "variants": [265, 266]
+  },
+  {
+    "id": 268,
+    "name": "GRAND THEORY 1",
+    "brand": "SLN",
+    "configurable": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_STR.glb",
+    "variants": [148, 149]
   }
 ]
