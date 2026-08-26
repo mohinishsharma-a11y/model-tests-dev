@@ -1317,11 +1317,11 @@
   },
   {
     "id": 155,
-    "name": "Hester 1",
+    "name": "Hester",
     "brand": "SLN",
     "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hester_1.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hester_1.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hester.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hester.glb"
   },
   {
     "id": 156,
