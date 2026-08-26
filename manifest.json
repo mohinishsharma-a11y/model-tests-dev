@@ -972,8 +972,8 @@
     "name": "Aventa (3 Seater)",
     "brand": "SLN",
     "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_3Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_3Str.glb",
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_3STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_3STR.glb",
     "variants": [113, 115]
   },
   {
@@ -981,8 +981,8 @@
     "name": "Aventa (4 Seater)",
     "brand": "SLN",
     "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_4Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_4Str.glb",
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_4STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_4STR.glb",
     "variants": [113, 114]
   },
   {
