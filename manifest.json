@@ -619,11 +619,11 @@
   },
   {
     "id": 73,
-    "name": "Pebble S",
-    "brand": "SBH",
+    "name": "Pebble",
+    "brand": "SLN",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PEBBLE_S.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_PEBBLE_S.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Pebble.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Pebble.glb"
   },
   {
     "id": 74,
@@ -952,7 +952,7 @@
   },
   {
     "id": 112,
-    "name": "Avanta CT",
+    "name": "Aventa CT",
     "brand": "SLN",
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVANTA_CT.webp",
@@ -1107,7 +1107,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_3_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_DENVER_3_SEATER.glb",
-    "variants": [131]
+    "variants": [131, 268]
   },
   {
     "id": 131,
@@ -1116,7 +1116,7 @@
     "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_6_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_DENVER_6_SEATER.glb",
-    "variants": [130]
+    "variants": [130, 268]
   },
   {
     "id": 132,
@@ -1314,14 +1314,6 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_3_st.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_3_st.glb",
     "variants": [153]
-  },
-  {
-    "id": 155,
-    "name": "Hester 1",
-    "brand": "SLN",
-    "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hester_1.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hester_1.glb"
   },
   {
     "id": 156,
@@ -1555,7 +1547,8 @@
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NEO.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NEO.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NEO.glb",
+    "variants": [265]
   },
   {
     "id": 183,
@@ -1645,11 +1638,11 @@
   },
   {
     "id": 193,
-    "name": "Pebble S",
+    "name": "Pebble",
     "brand": "SLN",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_PEBBLE_S.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_PEBBLE_S.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Pebble.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Pebble.glb"
   },
   {
     "id": 194,
@@ -2252,5 +2245,39 @@
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich_CT.glb"
+  },
+  {
+    "id": 265,
+    "name": "NEO-D",
+    "brand": "SLN",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NEO-D.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NEO-D.glb",
+    "variants": [182]
+  },
+  {
+    "id": 266,
+    "name": "DT MOZART",
+    "brand": "",
+    "configurable": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DT_MOZART.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DT_MOZART.glb"
+  },
+  {
+    "id": 267,
+    "name": "Hester",
+    "brand": "SLN",
+    "configurable": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hester.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hester.glb"
+  },
+  {
+    "id": 268,
+    "name": "DENVER",
+    "brand": "SLN",
+    "configurable": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_DENVER.glb",
+    "variants": [130, 131]
   }
 ]
