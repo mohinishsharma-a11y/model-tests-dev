@@ -2279,14 +2279,5 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
     "variants": [265, 266]
-  },
-  {
-    "id": 268,
-    "name": "GRAND THEORY 1",
-    "brand": "SLN",
-    "configurable": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_STR.glb",
-    "variants": [148, 149]
   }
 ]
