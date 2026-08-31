@@ -803,8 +803,8 @@
     "name": "Surefooted A",
     "brand": "SBH",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Surefooted_A.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Surefooted_A.glb",
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_A.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_A.glb",
     "variants": [93, 95, 96]
   },
   {
@@ -812,8 +812,8 @@
     "name": "Surefooted B",
     "brand": "SBH",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Surefooted_B.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Surefooted_B.glb",
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_B.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_B.glb",
     "variants": [93, 94, 96]
   },
   {
@@ -821,8 +821,8 @@
     "name": "Surefooted C",
     "brand": "SBH",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Surefooted_C.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Surefooted_C.glb",
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_C.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_C.glb",
     "variants": [93, 94, 95]
   },
   {
