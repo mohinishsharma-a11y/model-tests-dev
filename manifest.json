@@ -623,7 +623,7 @@
     "brand": "SBH",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PEBBLE_S.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_PEBBLE_S.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Pebble.glb"
   },
   {
     "id": 74,
@@ -1554,8 +1554,8 @@
     "name": "Neo",
     "brand": "SLN",
     "configurable": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NEO.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NEO.glb"
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_NEO-D.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NEO-D.glb"
   },
   {
     "id": 183,
@@ -1649,7 +1649,7 @@
     "brand": "SLN",
     "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_PEBBLE_S.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_PEBBLE_S.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Pebble.glb"
   },
   {
     "id": 194,
