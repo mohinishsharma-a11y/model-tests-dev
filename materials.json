@@ -552,6 +552,11 @@
           "name": "Silver Grey",
           "code": "#0119",
           "hex": "#B1ABA1"
+        },
+        {
+          "name": "Classic 20",
+          "code": "somecolor",
+          "hex": "#0525A3"
         }
       ]
     },
