@@ -1,7 +1,9 @@
 [
   {
     "name": "Fabric",
-    "materialCollections": ["Atelier Weave"]
+    "materialCollections": [
+      "Atelier Weave"
+    ]
   },
   {
     "name": "Leather",
@@ -16,5 +18,9 @@
       "Touch",
       "Tuscana Nova"
     ]
+  },
+  {
+    "name": "Vinyl",
+    "materialCollections": []
   }
 ]
