@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fabric",
+    "materialCollections": ["Atelier Weave"]
+  },
+  {
+    "name": "Leather",
+    "materialCollections": [
+      "Cashmere",
+      "Classic",
+      "Cloud",
+      "Euro Napa",
+      "Peach",
+      "Scandinavia",
+      "Scandinavia Max",
+      "Touch",
+      "Tuscana Nova"
+    ]
+  }
+]
