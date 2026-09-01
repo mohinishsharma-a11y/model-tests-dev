@@ -2781,5 +2781,12 @@
     "brand": "SBH",
     "configurable": true,
     "model_url": "https://raw.githubusercontent.com/mohinishsharma-a11y/model-tests-dev/main/models/AvatarPedestal01.glb"
+  },
+  {
+    "id": 269,
+    "name": "testing 1",
+    "brand": "SBH",
+    "configurable": true,
+    "model_url": "https://raw.githubusercontent.com/mohinishsharma-a11y/model-tests-dev/main/models/AvatarPedestal01.glb"
   }
 ]
