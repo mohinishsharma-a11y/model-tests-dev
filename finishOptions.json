@@ -21,6 +21,8 @@
   },
   {
     "name": "Vinyl",
-    "materialCollections": []
+    "materialCollections": [
+      "Some Texture"
+    ]
   }
 ]
