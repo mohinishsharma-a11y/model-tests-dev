@@ -121,7 +121,7 @@
     "id": 11,
     "name": "Adam",
     "brand": "SBH",
-    "configurable": true,
+    "configurable": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Adam.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Adam.glb"
   },
