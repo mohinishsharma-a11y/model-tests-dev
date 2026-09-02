@@ -25,7 +25,7 @@
     "id": 2,
     "name": "Abena",
     "brand": "SBH",
-    "configurable": false,
+    "configurable": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABENA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ABENA.glb"
   },
