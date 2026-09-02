@@ -1887,7 +1887,13 @@
     },
     {
       "name": "Some Texture",
-      "materials": []
+      "materials": [
+        {
+          "name": "Some Texture 1",
+          "code": "v",
+          "hex": "#F3F4F1"
+        }
+      ]
     }
   ]
 }
