@@ -2788,5 +2788,14 @@
     "brand": "SBH",
     "configurable": true,
     "model_url": "https://raw.githubusercontent.com/mohinishsharma-a11y/model-tests-dev/main/models/AvatarPedestal01.glb"
+  },
+  {
+    "id": 270,
+    "name": "SBH Abbaaa",
+    "brand": "lounge",
+    "category": "lounge",
+    "configurable": true,
+    "model_url": "drive://1HoYsoa0z82TMx9Mq6B02ozLWBCgExsfj/AvatarPedestal01.glb",
+    "thumbnail_url": "drive://1x1IMbkWsgJ1cj7HRhze8hjHPVvBqobs1/65de47590b4b69232050b3ee__id%3D37.webp"
   }
 ]
