@@ -1677,6 +1677,11 @@
           "name": "Caramel Geleato",
           "code": "TOUCH-CARAMEL-GELEATO",
           "hex": "#C5A98C"
+        },
+        {
+          "name": "Green Goblin",
+          "code": "GREEN-GOBLIN",
+          "hex": "#A2F202"
         }
       ]
     },
