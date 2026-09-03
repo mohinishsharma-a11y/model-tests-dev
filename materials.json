@@ -1892,11 +1892,6 @@
           "name": "Some Texture 1",
           "code": "v",
           "hex": "#F3F4F1"
-        },
-        {
-          "name": "Some Texture 2",
-          "code": "a",
-          "hex": "#3A481E"
         }
       ]
     }
