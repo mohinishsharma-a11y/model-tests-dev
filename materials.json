@@ -1884,16 +1884,6 @@
           "hex": "#292B2C"
         }
       ]
-    },
-    {
-      "name": "Some Texture",
-      "materials": [
-        {
-          "name": "Some Texture 1",
-          "code": "v",
-          "hex": "#F3F4F1"
-        }
-      ]
     }
   ]
 }
